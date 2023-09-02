@@ -1,0 +1,25 @@
+# Direktori dan file yang dihasilkan saat membangun proyek .NET
+bin/
+obj/
+*.suo
+*.user
+*.sln.docstates
+
+# Direktori proyek Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Direktori proyek JetBrains Rider
+.idea/
+
+# File NuGet
+*.nupkg
+*.paket
+*.paket.*.lock
+
+# File log dan sementara
+*.log
+*.swp
